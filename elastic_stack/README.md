@@ -1,0 +1,1 @@
+Great local example - https://github.com/sherifabdlnaby/elastdocker
